@@ -22,6 +22,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    NSLog(@"--------------");
+    
 }
 
 - (NSArray<PopoverAction *> *)QQActions {
